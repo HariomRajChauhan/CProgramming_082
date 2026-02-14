@@ -27,7 +27,7 @@ data_type array_name[size];
 
 Example:
 
-```c
+
 int marks[5];
 ```
 
